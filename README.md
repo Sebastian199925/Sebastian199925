@@ -6,20 +6,20 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I'm currently learning JavaScript and GitHub
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I am a university student at the Central University of Ecuador
 
-- 💬 Ask me about **Web development | OOC**
-
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 💬 I am from Quito - Ecuador
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ My hobbies are: playing soccer, playing ecuavoly, video games, listening to music and drawing.
+
+- 📫 How to contact me: "sebadherrera3@gmail.com"
 
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramacion&psig=AOvVaw2OpmUJdJtbRXAFftOY39Vz&ust=1732268312927000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjJ472Q7YkDFQAAAAAdAAAAABBw)">
 
   
   </td>

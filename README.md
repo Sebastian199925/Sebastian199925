@@ -47,20 +47,20 @@
 </table>
 
 ---
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/jhon-sebastian-5a971727b" target="_blank">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
-</a>
-
- <a href="https://www.facebook.com/share/19gGqux86b/" target="_blank">
-  <img align="center" src="[https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)" alt="LinkedIn" height="50" width="50" />
-</a>
-
-<a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="https://instagram.com/kavee_dineth" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/jhon-sebastian-5a971727b" target="_blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="https://www.facebook.com/share/19gGqux86b/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/sebastian2016/profilecard/?igsh=MWV0YTZiY2M4bXkwbg==" target="_blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="50" width="50" />
+  </a>
 </p>
+
+
 
 ---
 

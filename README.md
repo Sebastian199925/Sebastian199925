@@ -8,7 +8,7 @@
   
 - 🌱 I'm currently learning JavaScript and GitHub
 
-- 🧑‍🎓 I am a university student at the Central University of Ecuador
+- 🧑‍🎓 I am a university student at the "Universidad Cnetral del Ecuador"
 
 - 💬 I am from Quito - Ecuador
   
